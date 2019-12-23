@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Feelings</string>
+    <string name="remark">Remark</string>
+    <string name="date">Date</string>
 </resources>
